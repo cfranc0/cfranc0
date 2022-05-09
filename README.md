@@ -9,4 +9,4 @@ At the moment I'm working on my skills with Next.js, React and Next.js.
 
 ![](https://visitor-badge.glitch.me/badge?page_id=cfranc0.cfranc0)
 
-You can also find me at [francescocescon.com](https://francescocescon.com)
+You can also find me at [francescocescon.com](http://francescocescon.com)
