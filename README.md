@@ -1,10 +1,11 @@
 # Hello hello! 👋
-I'm Francesco, a junior software engineer 👨🏻‍💻 interested the world of web development and cryptography. I'm from Italy 🇮🇹, but currently based in sunny California 🇺🇸🐻.
+I'm Francesco, a junior software engineer 👨🏻‍💻 interested the world of web development. I'm from Italy 🇮🇹, if you can't find my I'm probably either getting an espresso ☕ or a pizza 🍕.
 
 Besides code, I love hiking 🥾 and exploring nature ⛰️. 
 
 ## What I’m working with now
-- `.js`: Express.js, React and Next.js
+- `.ts`: Express.js, React and Next.js
+- `.yaml`: Infrastructure-as-Code and Containers
 - `.sql`: SQL e NoSQL databases
 - `.pem`: Some cryptography projects
 
@@ -22,7 +23,7 @@ Besides code, I love hiking 🥾 and exploring nature ⛰️.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
 
 ## Next goals
