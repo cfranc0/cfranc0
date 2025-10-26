@@ -1,5 +1,5 @@
 # Hello hello! 👋
-I'm Francesco, a junior software engineer 👨🏻‍💻 interested the world of web development. I'm from Italy 🇮🇹, if you can't find my I'm probably either getting an espresso ☕ or a pizza 🍕.
+I'm Francesco, a junior software engineer 👨🏻‍💻 interested the world of web development. I'm from Italy 🇮🇹, if you can't find me I'm probably either getting an espresso ☕ or a pizza 🍕.
 
 Besides code, I love hiking 🥾 and exploring nature ⛰️. 
 
